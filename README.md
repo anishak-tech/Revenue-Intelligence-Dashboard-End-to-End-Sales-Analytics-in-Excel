@@ -65,6 +65,8 @@ All calculations and insights were derived from this structured dataset.
 ---
 
 ## 📊 Dashboard Architecture
+<img width="742" height="461" alt="Screenshot 2026-03-04 193454" src="https://github.com/user-attachments/assets/26ee6207-f10f-4605-baf3-26aec904499a" />
+
 
 ### 1️⃣ Key Performance Indicators (KPIs)
 - Total Revenue
@@ -77,7 +79,7 @@ All calculations and insights were derived from this structured dataset.
 - Revenue by Department
 - Revenue by Region
 - Monthly Sales Trend Analysis
-- Top 5 Employees by Revenue
+- Top Employees by Revenue
 - Category-wise Contribution
 
 ### 3️⃣ Interactive Controls
